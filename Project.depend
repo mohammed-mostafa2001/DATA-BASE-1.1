@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1661108895 source:c:\users\moham\onedrive\desktop\project\project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"count.h"
+	"funct.h"
+	"STD_TYPES_M.h"
+
+1661109074 c:\users\moham\onedrive\desktop\project\project\count.h
+	"STD_TYPES_M.h"
+
+1661109074 c:\users\moham\onedrive\desktop\project\project\std_types_m.h
+
+1661108014 c:\users\moham\onedrive\desktop\project\project\funct.h
+
+1661108591 source:c:\users\moham\onedrive\desktop\project\project\funct.c
+	<stdio.h>
+	<stdlib.h>
+	"count.h"
+	"funct.h"
+
+1661108756 source:c:\users\moham\onedrive\desktop\project\project\counter.c
+	<stdio.h>
+	<stdlib.h>
+	"count.h"
+
