@@ -1,14 +1,3 @@
-/**
- * @file    count.H
- * @author  MOHAMMED-MOSTAFA-ELSAYED
- * @brief   File contains the standard types definition for more code portability
- * @version 1.0
- * @date    2022-08-20
- *
- * @copyright Copyright (c) 2022
- *
- */
-
 
 #ifndef COUNT_H_INCLUDED
 #define COUNT_H_INCLUDED
